@@ -1,0 +1,19 @@
+{
+  "name": "joopal",
+  "version": "1.0.0",
+  "description": "A (better) JavaScript library for Google's APIs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/pavlovml/joopal.git"
+  },
+  "author": "Alex Kern <alex@pavlovml.com> (http://kern.io)",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/pavlovml/joopal/issues"
+  },
+  "homepage": "https://github.com/pavlovml/joopal#readme"
+}
